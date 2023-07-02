@@ -49,7 +49,7 @@ export const LoginModal = () => {
   const footerContent = (
     <div className="text-neutral-400 mt-4 text-center">
       <p>
-        First time using Twittur? {''}
+        First time using Awitter? {''}
         <span onClick={onToggle} className="hover:underline text-white cursor-pointer">
           Create an account
         </span>
